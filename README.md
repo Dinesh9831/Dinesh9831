@@ -10,7 +10,7 @@
 
 ### 👨‍💻 A Little About Me
 
-- 🎓 3rd-year **B.Tech CSE** student at Lovely Professional University, specializing in **Data Science**.
+- 🎓 Final-year **B.Tech CSE** student at Lovely Professional University, specializing in **Data Science**.
 - 💼 Completed a 2-month **Data Analytics Internship** at **Infosys Springboard**.
 - 💡 Passionate about solving complex real-world data problems and deploying predictive models.
 - ☁️ Exploring the intersections of **Machine Learning, NLP, and MLOps**.
